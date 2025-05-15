@@ -5,8 +5,8 @@ import MainContent from './MainContent'
 function App() {
   return (
     <>
-      <div class="text-white bg-background">
-        <div class="container mx-auto px-4 h-screen flex flex-col">
+      <div className="text-white bg-background">
+        <div className="container mx-auto px-4 h-screen flex flex-col">
           <Header />
           <MainContent />
         </div>
