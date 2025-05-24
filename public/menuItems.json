@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburger",
+    "price": 300,
+    "icon": "Hamburger"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Nuggets",
+    "price": 300,
+    "icon": "Chicken"
+  },
+  {
+    "id": 3,
+    "name": "Submarine Sandwich",
+    "price": 300,
+    "icon": "Submarine"
+  },
+  {
+    "id": 4,
+    "name": "Pizza slices",
+    "price": 300,
+    "icon": "Pizza"
+  }
+]
